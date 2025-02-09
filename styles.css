@@ -137,16 +137,18 @@ h2{
 
 .Part4{
     display:flex;
-    margin-right:15%;
-    margin-left:15%;
+    padding-right:15%;
+    padding-left:15%;
     background-color:#3882F6;
     color:white;
     margin-top:50px;
     margin-bottom:50px;
-    justify-content:center;
+    justify-content:space-evenly;
     flex-direction:row;
     align-items:center;
     gap:450px;
+    padding-left:30px;
+    padding-right:30px;
 
     
 }
